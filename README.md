@@ -11,5 +11,7 @@ This project focuses on predicting home prices in Bangalore using Machine Learni
 
 Related Project Materials:
 
-Links to Decks: https://github.com/Darshil-Data/Home-Price-Prediction/blob/bd133639e9934ccf61cbea885e62438642c070fc/class_deck_20250302%20(1).pdf
+Links to Decks: [Home Price Prediction](https://github.com/Darshil-Data/Home-Price-Prediction/blob/bd133639e9934ccf61cbea885e62438642c070fc/class_deck_20250302%20(1).pdf)
+
+
 
